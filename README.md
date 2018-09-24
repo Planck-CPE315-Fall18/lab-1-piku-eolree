@@ -6,6 +6,8 @@ Ethan Olree
 __Status__
 Complete
 
-__Compile and Run__
+__Compile__
 gcc -o piku piku.s
+
+__Run__
 ./piku`
